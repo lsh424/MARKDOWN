@@ -69,4 +69,4 @@ public struct CGSize {
 ~~텍스트 취소선~~
 
 ### 정리내용
-[정리 내용 보기](https://lsh424.tistory.com/)
+[정리 내용 보기](https://lsh424.tistory.com/37)
