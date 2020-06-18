@@ -47,12 +47,11 @@ MARKDOWN 정리, 실습 for README.md
 
 [blog]: https://lsh424.tistory.com/
 
-
 # 9. 이미지 추가하기
-![로마 사진](https://user-images.githubusercontent.com/31477658/85013018-e0a3c600-b19e-11ea-8247-b90ad4e701bc.jpeg)
+![이탈리아 포지타노](https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg)
 
 ### 이미지 사이즈 조절
-<img src="https://user-images.githubusercontent.com/31477658/85013018-e0a3c600-b19e-11ea-8247-b90ad4e701bc.jpeg"  width="700" height="370">
+<img src="https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg"  width="700" height="370">
 
 # 10. 코드블럭 추가하기
 
