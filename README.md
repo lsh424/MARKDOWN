@@ -53,6 +53,9 @@ MARKDOWN 정리, 실습 for README.md
 ### 이미지 사이즈 조절
 <img src="https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg"  width="700" height="370">
 
+### 이미지 파일로 추가하기
+<img src="Capri_Island.jpeg" width="700">
+
 # 10. 코드블럭 추가하기
 
 ```swift
@@ -67,6 +70,14 @@ public struct CGSize {
 
 **텍스트 굵게**  
 ~~텍스트 취소선~~
+
+### 체크박스
+
+#### 다음과 같이 체크박스를 표현 할 수 있습니다. 
+* [x] 체크박스
+* [ ] 빈 체크박스
+* [ ] 빈 체크박스
+
 
 ### 정리내용
 [정리 내용 보기](https://lsh424.tistory.com/37)
